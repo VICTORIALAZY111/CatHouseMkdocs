@@ -1,0 +1,8 @@
+site_name: 猫窝mkdocs子站
+
+theme:
+  name: material
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
