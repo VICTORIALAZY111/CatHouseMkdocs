@@ -2,6 +2,23 @@ site_name: 猫窝mkdocs子站
 
 theme:
   name: material
+  palette:
+  # 从mdn那里拿来的hhh
+    # 浅色模式
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # 深色模式  
+    - scheme: slate
+      primary: blue grey
+      accent: blue grey
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 
 nav:
   - 首页: index.md
