@@ -1,17 +1,6 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 欢迎来到猫窝子网站
+*这个站可谓是我花费精力最多的地方了*
+## 什么是猫窝子站？
+猫窝子站(文档站)是基于MkDocs(一个工具)开发的静态站点，使用Netlify部署。
+## 为什么要设立此站
+猫窝子站为[猫窝](meow-house.netlify.app)而生。是与之相适配的文档站点，先前使用Docsify构建，然后因为我创新技术力(doge)换成这个了，看不懂妹有关系，我也看不懂(bushi)，你随便逛逛就行了。
