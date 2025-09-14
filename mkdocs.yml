@@ -22,4 +22,5 @@ theme:
 
 nav:
   - 首页: index.md
-  - 关于: about.md
+  - 关于猫窝
+    - 历史: about/history.md
